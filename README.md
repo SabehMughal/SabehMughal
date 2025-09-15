@@ -22,15 +22,15 @@ A: Absolutely. Any action you take on one device is instantly reflected across a
 
 ---
 
-## 🔐 Security & Privacy  
+### 🔒 Security & Privacy  
 
 **Q: Is my data secure in NotiFlow?**  
-A: Yes. All data is encrypted at rest and in transit. NotiFlow complies with **GDPR** and **HIPAA** standards.  
+A: Yes. All data is encrypted at rest and in transit. NotiFlow complies with GDPR and HIPAA standards.  
 
-https://github.com/SabehMughal/SabehMughal/blob/96c51126c30e0c694f018f8946421e291da2ad6a/NotiFlow_FAQ_Pricing_Plans.png
+![NotiFlow Security](https://github.com/SabehMughal/SabehMughal/raw/main/Images/NotiFlow_FAQ_Security_and_Privacy.png)  
 
 **Q: Does NotiFlow support SSO (Single Sign-On)?**  
-A: Yes, NotiFlow supports SSO integrations with **Google Workspace** and **Microsoft Azure**.  
+A: Yes. NotiFlow supports SSO integrations with Google Workspace and Microsoft Azure.  
 
 ---
 
