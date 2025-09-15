@@ -10,7 +10,8 @@ This guide covers compatibility, security, and pricing with helpful visuals.
 **Q: What operating systems does NotiFlow support?**  
 A: NotiFlow works on **Windows 10+, macOS 11+**, and modern browsers like Chrome, Firefox, and Edge.  
 
-https://github.com/SabehMughal/SabehMughal/blob/7ce5680f17e39ffda18ac5249588906c21675df4/Images/NotiFlow_FAQ_Platforms.png.png
+![Platforms](https://raw.githubusercontent.com/SabehMughal/SabehMughal/main/Images/NotiFlow_FAQ_Platforms.png.png)
+
 
 
 **Q: Can I use NotiFlow on mobile?**  
