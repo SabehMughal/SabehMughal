@@ -45,7 +45,7 @@ A: NotiFlow has flexible pricing:
 - **Pro Plan** – Advanced tools for teams  
 - **Enterprise Plan** – Scalable, custom solutions  
 
-![Pricing & Plans](https://github.com/SabehMughal/SabehMughal/raw/49a4db89aa4b9e487ce8befce99a7f18f7e35920/NotiFlow_FAQ_Pricing_Plans.png)
+![Pricing & Plans
 
 ---
 
