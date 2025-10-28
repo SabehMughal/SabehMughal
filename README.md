@@ -5,7 +5,7 @@ This guide covers compatibility, security, and pricing with helpful visuals.
 
 ---
 
-## 📦 Platforms & Compatibility  
+## Platforms & Compatibility  
 
 **Q: What operating systems does NotiFlow support?**  
 A: NotiFlow works on **Windows 10+, macOS 11+**, and modern browsers like Chrome, Firefox, and Edge.  
@@ -22,7 +22,7 @@ A: Absolutely. Any action you take on one device is instantly reflected across a
 
 ---
 
-### 🔒 Security & Privacy  
+### Security & Privacy  
 
 **Q: Is my data secure in NotiFlow?**  
 A: Yes. All data is encrypted at rest and in transit. NotiFlow complies with GDPR and HIPAA standards.  
@@ -36,7 +36,7 @@ A: Yes. NotiFlow supports SSO integrations with Google Workspace and Microsoft A
 
 ---
 
-## 💳 Pricing & Plans  
+## Pricing & Plans  
 
 **Q: What plans does NotiFlow offer?**  
 A: NotiFlow has flexible pricing:  
@@ -49,7 +49,7 @@ A: NotiFlow has flexible pricing:
 
 ---
 
-## 📞 Need More Help?  
+## Need More Help?  
 
 - Visit our [Support Page](#)  
 - Contact us at **support@notiflow.com**  
